@@ -1,0 +1,14 @@
+body {
+  background-color: #f0f8ff; /* change background color */
+  display: flex;
+  justify-content: center; /* center horizontally */
+  align-items: center;     /* center vertically */
+  height: 100vh;           /* full height of screen */
+  margin: 0;
+}
+
+h1 {
+  color: #333;   /* text color */
+  font-size: 2rem;
+  text-align: center;
+}
